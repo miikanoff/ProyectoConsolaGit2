@@ -4,6 +4,6 @@ public class Tareas {
     }
 
     public void agregarTarea() {
-        System.out.println("Tarea agregada");
+        System.out.println("Tarea agregada.");
     }
 }
